@@ -1,0 +1,11 @@
+scrap,nom,service,code,feed
+oui,Le Figaro,taboola,LF,http://www.lefigaro.fr/rss/figaro_actualites.xml
+oui,Le Point,taboola,PT,http://www.lepoint.fr/24h-infos/rss.xml
+oui,Le Télégramme,outbrain,TG,http://www.letelegramme.fr/rss.xml
+oui,Le Monde,outbrain,LM,http://www.lemonde.fr/rss/une.xml
+oui,Franceinfo,smartfeed,FV,https://www.francetvinfo.fr/titres.rss
+oui,RTL,smartfeed,RT,http://www.rtl.fr/flux/une.rss
+oui,L’Obs,outbrain,OS,http://www.nouvelobs.com/atom.xml
+oui,La Voix du Nord,taboola,VN,http://www.lavoixdunord.fr/rss.xml
+oui,Eurosport,smartfeed,ES,https://www.eurosport.fr/rss.xml
+oui,BFM-TV,smartfeed,BF,http://www.bfmtv.com/rss/info/flux-rss/flux-toutes-les-actualites/
