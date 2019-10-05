@@ -7,6 +7,8 @@ This list of 400+ sponsored links wat put together by Yann Guégan, French journ
 	* *code_imp* is an unique identifier for the impressions
 	* *code_ad* is an unique identifier for the ad itself (the same ad can run on several websites)
 
+The rest should be self-understanding.
+
 The data is published under the ODbL 1.0 license. 
 
 You are free:
